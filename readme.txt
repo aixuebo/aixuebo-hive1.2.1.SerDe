@@ -1,0 +1,1 @@
+针对hive的1.2.1的SerDe项目的java文件夹进行git管理
